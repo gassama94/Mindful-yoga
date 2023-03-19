@@ -156,3 +156,37 @@ body{
   #hero a:hover {
     background-color: #f16c6b;
   }
+
+  /* welcome section and about section */
+#about-head {
+  display: flex;
+  align-items: center;
+  margin-top: 80px;
+}
+
+#about-head img {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+  width: 50%;
+  height: auto;
+}
+
+#about-head a {
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #a21f26;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 80px;
+  transition: 0.3s;
+}
+
+#about-head a:hover {
+  background-color: #f16c6b;
+}
+
+#about-head div {
+  padding-left: 40px;
+  margin-top: 20px;
+}
