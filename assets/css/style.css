@@ -158,6 +158,10 @@ body{
   }
 
   /* welcome section and about section */
+  #intro span {
+    color: #a21f26;
+  }
+
 #about-head {
   display: flex;
   align-items: center;
@@ -168,6 +172,7 @@ body{
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   width: 50%;
   height: auto;
+  border-radius: 12px;
 }
 
 #about-head a {
@@ -189,4 +194,9 @@ body{
 #about-head div {
   padding-left: 40px;
   margin-top: 20px;
+}
+
+marquee {
+  color: #f3c5c7;
+  margin-bottom: 20px;
 }
