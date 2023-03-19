@@ -14,9 +14,9 @@ body{
 
   }
 
-/* /////////////////////////////////////////////// */
+
 /* GENERAL AND REUSABLE STYLES */
-/* /////////////////////////////////////////////// */
+
   h1 {
     font-size: 50px;
     font-family: "Montserrat", sans-serif;
@@ -49,9 +49,9 @@ body{
     margin: 40px 0;
   }
 
-/* /////////////////////////////////////////////// */
+
 /* HEADER SECTION */
-/* /////////////////////////////////////////////// */
+
 #header {
     display: flex;
     align-items: center;
@@ -114,9 +114,9 @@ body{
     left: 20px;
   }
   
-/* /////////////////////////////////////////////// */
-/* HERO SECTION*/
-/* /////////////////////////////////////////////// */
+
+/* HERO SECTION */
+
 #hero {
     background: url('../images/hero.jpg');
     background-size: cover;
