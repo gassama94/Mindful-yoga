@@ -263,3 +263,58 @@ marquee {
   font-weight: 700;
   font-size: 64px;
 }
+
+/* program PAGE */
+#program {
+  padding: 150px 150px 0 150px;
+}
+
+#program .program-box {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  padding-bottom: 90px;
+}
+#program .program-img {
+  width: 50%;
+  margin-right: 40px;
+}
+#program .program-img-2 {
+  width: 50%;
+  margin-left: 40px;
+}
+#program img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+#program .program-details {
+  width: 50%;
+}
+#program .program-details a {
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 700;
+  color: #a21f26;
+  position: relative;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+
+#program .program-details a:hover {
+  color: #f3c5c7;
+}
+
+#program .program-details a:hover a::after {
+  color: #a21f26;
+}
+#program .program-box h1 {
+  position: absolute;
+  top: -45px;
+  left: 0;
+  font-size: 70px;
+  font-weight: 700;
+  color: #606063;
+  z-index: -9;
+}
