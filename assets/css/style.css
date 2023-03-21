@@ -589,4 +589,25 @@ footer a:hover {
   #hero p {
     font-size: 12px;
   }
+
+  #hero a {
+    padding: 10px 40px;
+    font-weight: 700;
+    font-size: 9px;
+  }
+
+  #intro {
+    font-size: 90%;
+    width: 100%;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+  h1 {
+    font-size: 38px;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
 }
