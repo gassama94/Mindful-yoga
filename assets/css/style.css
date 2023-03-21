@@ -700,3 +700,28 @@ footer a:hover {
   }
 
 }
+
+@media (max-width: 375px) {
+  .section-p1 {
+    padding: 20px;
+  }
+
+  #about-head {
+    flex-direction: column;
+    height: 110vh;
+    margin-bottom: 90px;
+  }
+  #about-head h2{
+    font-size: 170%;
+  }
+
+  #intro {
+    font-size: 90%;
+    width: 100%;
+   
+  }
+
+  #testimonials{
+    margin-top: 80px;
+  }
+}
