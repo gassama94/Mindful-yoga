@@ -430,3 +430,58 @@ footer a:hover {
   width: 100%;
   height: 100%;
 }
+
+/* Form */
+.signup-form {
+  margin: 150px 10% 0 0;
+  color: #fff;
+  background-color: rgba(90, 90, 90, 0.6);
+  max-width: 400px;
+  position: absolute;
+  left: 10%;
+  padding: 30px;
+}
+
+.signup-form h2 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.text-input {
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+.text-input:hover {
+  border-color: #f16c6b;
+}
+
+.join-button {
+  margin-top: 20px;
+  border-radius: 12px;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #a21f26;
+  color: #fff;
+  display: block;
+}
+
+.join-button:hover {
+  color: #f16c6b;
+  background-color: #fff;
+}
+
+.form-section {
+  clear: left;
+  background: url("../images/index2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
