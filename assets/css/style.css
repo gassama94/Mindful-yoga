@@ -557,3 +557,36 @@ footer a:hover {
     object-fit: cover;
   }
 }
+
+/* PHONE SCREEN */
+@media (max-width: 477px) {
+  .section-p1 {
+    padding: 20px;
+  }
+
+  #header {
+    padding: 10px 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #hero {
+    background-position: 55%;
+    height: 70vh;
+    padding: 0 20px;
+    display: flex;
+  }
+
+  #hero h1 {
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+  #hero h2 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  #hero p {
+    font-size: 12px;
+  }
+}
