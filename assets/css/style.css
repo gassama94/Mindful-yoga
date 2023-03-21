@@ -485,3 +485,40 @@ footer a:hover {
   height: 900px;
 }
 
+/* MEDIA QUERIES FOR IPAD SCREEN AND DOWNWARDS */
+@media (max-width: 768px) {
+  .section-p1 {
+    padding: 40px 40px;
+  }
+
+  #logo {
+    font-size: 90%;
+  }
+
+
+  #navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    width: 100%;
+  }
+
+  #navbar li a {
+    font-size: 12px;
+  }
+
+  #hero {
+    background-position: top 30% right 30%;
+    height: 70vh;
+    width: 100%;
+    padding: 0 80px;
+    display: flex;
+  }
+
+  #hero h1 {
+    font-size: 42px;
+  }
+  #hero h2 {
+    font-size: 32px;
+  }
+}
