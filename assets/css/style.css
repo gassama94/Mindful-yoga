@@ -635,4 +635,41 @@ footer a:hover {
     padding: 20px 60px;
   }
 
+  /* Profram */
+  #program .program-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    position: relative;
+    padding-bottom: 90px;
+  }
+  #program {
+    padding: 100px 20px 0 20px;
+  }
+
+  #program .program-img {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    
+  }
+
+  #program .program-img-2 {
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+  #program img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+  #program .program-details {
+    width: 100%;
+  }
+
+
+
 }
