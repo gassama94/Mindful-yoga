@@ -610,4 +610,29 @@ footer a:hover {
     padding: 0;
   }
 
+  /* ABOUT PAGE */
+  #about-head {
+    flex-direction: column;
+    height: 90vh;
+    margin-bottom: 90px;
+  }
+
+  #about-head img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  #about-head div {
+    padding-left: 0px;
+  }
+  
+  #about-head h2{
+    font-size: 190%;
+  }
+
+  .testimonials .content .box {
+    margin:10px;
+    padding: 20px 60px;
+  }
+
 }
