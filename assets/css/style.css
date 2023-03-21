@@ -525,4 +525,16 @@ footer a:hover {
   #intro {
     font-size: 42px;
   }
+
+  #about-head {
+    flex-direction: column;
+  }
+  #about-head h2 {
+    text-align: center;
+    margin-top: 10px;
+  }
+  #about-head {
+    text-align: center;
+    padding: 20px 80px;
+  }
 }
