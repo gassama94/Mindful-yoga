@@ -351,6 +351,11 @@ marquee {
   margin-right: 40px;
   height: 270px;
 }
+#tips .tips-text h4{
+  color: #a21f26;
+  text-transform: uppercase;
+
+}
 
 #tips img {
   width: 100%;
