@@ -1,0 +1,5 @@
+# Mindful Yoga
+Welcome to Mindful Yoga, a website dedicated to promoting a healthy and balanced lifestyle through yoga, meditation. Our goal is to provide you with the resources and tools you need to cultivate a greater sense of well-being in your life.
+In this Read Me, you will find information about the different sections of our website, including our yoga and meditation classes and tips for maintaining a healthy body and mind. I encourage you to explore each section and take advantage of the resources available to you.
+Our yoga and meditation classes are designed for people of all levels, from beginners to advanced practitioners. We offer a variety of styles and class lengths, so you can choose the practice that best suits your needs and schedule. In our Body section, we provide tips and resources for maintaining a healthy body and mind, including information about exercise, self-care, and stress reduction techniques.
+Thank you for visiting Mindful Yoga, and we hope you find our website to be a valuable resource for your journey towards greater health and well-being.
