@@ -665,18 +665,19 @@ footer a:hover {
 }
 
 #tips .tips-img {
-  width: 100%;
+  width: 80%;
   margin-right: 0px;
   margin-bottom: 10px;
 }
 
 #tips img {
-  width: 100%;
-  height: 270px;
+  max-width: 100%;
+  max-height: 100%;
   object-fit: cover;
 }
 #tips .tips-text {
-  width: 100%;
+  width: 80%;
+  text-align: center;
 }
 
 
