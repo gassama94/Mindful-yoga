@@ -63,7 +63,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 60px;
+    padding: 10px 40px;
     background-color: #fff;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     position: fixed;
@@ -524,6 +524,48 @@ footer a:hover {
   height: 900px;
 }
 
+/* MEDIA QUERIES FOR IPAD PRO SCREEN AND DOWNWARDS */
+@media (max-width: 1024px) {
+
+/* tips section */
+#tips-container h2{
+  text-align: center;
+  
+ 
+}
+#tips {
+   padding: 20px 5px 0 20px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}
+
+#tips .tips-box, #tips .tips-box-1 {
+ 
+  flex-direction: column;
+  width: 100%;
+  padding-bottom: 90px;
+  
+}
+
+#tips .tips-img {
+  width: 100%;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+#tips img {
+  width: 80%;
+  height: 350px;
+  object-fit: cover;
+}
+#tips .tips-text {
+  width: 100%;
+  text-align: center;
+}
+
+}
 /* MEDIA QUERIES FOR IPAD SCREEN AND DOWNWARDS */
 @media (max-width: 799px) {
   .section-p1 {
@@ -611,7 +653,7 @@ footer a:hover {
 }
 
 #tips .tips-box, #tips .tips-box-1 {
-  display: flex;
+ 
   flex-direction: column;
   width: 100%;
   padding-bottom: 90px;
