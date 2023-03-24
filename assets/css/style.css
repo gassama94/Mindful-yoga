@@ -77,9 +77,11 @@ body{
   #logo {
     cursor: pointer;
     text-decoration: none;
+    color: #a21f26;
+    font-size: 200%;
+    font-weight: 600;
   }
-  #header #logo h1 {
-    font-size: 210%;
+  #header #logo a {
     color: #a21f26;
   }
   
@@ -137,14 +139,14 @@ body{
   }
   
   #hero p,
-  #hero h2 {
+  #hero h3 {
     color: #fff;
   }
   
-  #hero h1 {
+  #hero h2 {
     color: #a21f26;
-    text-align: center;
-    font-size: 64px;
+    
+    font-size: 54px;
   }
   
   #hero a {
@@ -567,6 +569,7 @@ footer a:hover {
 }
 #tips .tips-text {
   width: 80%;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -601,10 +604,10 @@ footer a:hover {
     display: flex;
   }
 
-  #hero h1 {
+  #hero h2 {
     font-size: 42px;
   }
-  #hero h2 {
+  #hero h3 {
     font-size: 32px;
   }
 
@@ -657,7 +660,7 @@ footer a:hover {
   align-items: center;
 }
 
-#tips .tips-box, #tips .tips-box-1 {
+#tips .tips-box {
  
   flex-direction: column;
   width: 100%;
@@ -678,6 +681,7 @@ footer a:hover {
 }
 #tips .tips-text {
   width: 80%;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -704,11 +708,11 @@ footer a:hover {
     display: flex;
   }
 
-  #hero h1 {
+  #hero h2 {
     font-size: 24px;
     margin-bottom: 0;
   }
-  #hero h2 {
+  #hero h3 {
     font-size: 18px;
     margin-top: 0;
   }
@@ -799,6 +803,44 @@ footer a:hover {
   #program .program-details {
     width: 100%;
   }
+/* tips section */
+#tips h4{
+  text-align: center;
+  
+ 
+}
+#tips {
+   padding: 20px 5px 0 20px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}
+
+#tips .tips-box {
+ 
+  flex-direction: column;
+  width: 100%;
+  padding-bottom: 90px;
+  
+}
+
+#tips .tips-img {
+  width: 80%;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+#tips img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+#tips .tips-text {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
 
    /* contact page */
    #contact-details {
@@ -832,10 +874,21 @@ footer a:hover {
     padding: 20px;
   }
 
+  #hero h2 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  #hero h3 {
+    font-size: 16px;
+    margin-top: 0;
+  }
+  #hero p {
+    font-size: 9px;
+  }
   #about-head {
     flex-direction: column;
     height: 110vh;
-    margin-bottom: 90px;
+    margin-bottom: 320px;
   }
   #about-head h2{
     font-size: 170%;
@@ -850,4 +903,49 @@ footer a:hover {
   #testimonials{
     margin-top: 80px;
   }
+
+  /* tips section */
+#tips-container h4{
+  text-align: center;
+  
+ 
+}
+
+#tips h4{
+  font-size: 24px;
+  text-align: center;
+}
+#tips {
+   padding: 20px 5px 0 20px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}
+
+#tips .tips-box {
+ 
+  flex-direction: column;
+  width: 100%;
+  padding-bottom: 90px;
+  
+}
+
+#tips .tips-img {
+  width: 80%;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+
+#tips img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+#tips .tips-text {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
 }
