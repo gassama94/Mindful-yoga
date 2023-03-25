@@ -320,19 +320,19 @@ marquee {
 
 
 /* tips section */
-#tips-container h2{
+.tips-container h2{
   text-align: center;
   padding: 100px 100px 0 100px; 
   
  
 }
-#tips {
+.tips {
   display: flex;
   justify-content: center; 
   align-items: center;
 }
 
-#tips .tips-box {
+.tips .tips-box {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -341,29 +341,29 @@ marquee {
   
 }
 
-#tips .tips-img {
+.tips .tips-img {
   width: 40%;
   margin-right: 40px;
 }
 
-#tips .tips-text {
+.tips .tips-text {
   width: 60%;
   margin-right: 40px;
   height: 270px;
 }
 
-#tips .tips-text h4{
+.tips .tips-text h4{
   color: #a21f26;
   text-transform: uppercase;
 
 }
 
-#tips img {
+.tips img {
   width: 100%;
   height: 270px;
   object-fit: cover;
 }
-#tips .tips-text {
+.tips .tips-text {
   width: 30%;
 }
 
@@ -544,12 +544,12 @@ footer a:hover {
     font-size: 32px;
   }
 /* tips section */
-#tips-container h2{
+.tips-container h2{
   text-align: center;
   
  
 }
-#tips {
+.tips {
    padding: 20px 5px 0 20px; 
   display: flex;
   flex-direction: column;
@@ -557,7 +557,7 @@ footer a:hover {
   align-items: center;
 }
 
-#tips .tips-box, #tips .tips-box-1 {
+.tips .tips-box {
  
   flex-direction: column;
   width: 100%;
@@ -565,7 +565,7 @@ footer a:hover {
   
 }
 
-#tips .tips-img {
+.tips .tips-img {
   width: 80%;
   margin-right: 0px;
   margin-bottom: 10px;
@@ -573,14 +573,14 @@ footer a:hover {
   max-height: 100%;
 }
 
-#tips img {
+.tips img {
   max-width: 100%;
   height: 100%;
   text-align: center;
   align-items: center;
   object-fit: cover;
 }
-#tips .tips-text {
+.tips .tips-text {
   width: 80%;
   margin: 0 auto;
   text-align: center;
@@ -660,12 +660,12 @@ footer a:hover {
   }
 
 /* tips section */
-#tips-container h2{
+.tips-container h2{
   text-align: center;
   
  
 }
-#tips {
+.tips {
    padding: 20px 5px 0 20px; 
   display: flex;
   flex-direction: column;
@@ -673,7 +673,7 @@ footer a:hover {
   align-items: center;
 }
 
-#tips .tips-box {
+.tips .tips-box {
  
   flex-direction: column;
   width: 100%;
@@ -681,18 +681,18 @@ footer a:hover {
   
 }
 
-#tips .tips-img {
+.tips .tips-img {
   width: 80%;
   margin-right: 0px;
   margin-bottom: 10px;
 }
 
-#tips img {
+.tips img {
   max-width: 100%;
   max-height: 100%;
   object-fit: cover;
 }
-#tips .tips-text {
+.tips .tips-text {
   width: 80%;
   margin: 0 auto;
   text-align: center;
@@ -817,12 +817,12 @@ footer a:hover {
     width: 100%;
   }
 /* tips section */
-#tips h4{
+.tips h4{
   text-align: center;
   
  
 }
-#tips {
+.tips {
    padding: 20px 5px 0 20px; 
   display: flex;
   flex-direction: column;
@@ -830,7 +830,7 @@ footer a:hover {
   align-items: center;
 }
 
-#tips .tips-box {
+.tips .tips-box {
  
   flex-direction: column;
   width: 100%;
@@ -838,18 +838,18 @@ footer a:hover {
   
 }
 
-#tips .tips-img {
+.tips .tips-img {
   width: 80%;
   margin-right: 0px;
   margin-bottom: 10px;
 }
 
-#tips img {
+.tips img {
   max-width: 100%;
   max-height: 100%;
   object-fit: cover;
 }
-#tips .tips-text {
+.tips .tips-text {
   width: 80%;
   margin: 0 auto;
   text-align: center;
@@ -928,17 +928,17 @@ footer a:hover {
   }
 
   /* tips section */
-#tips-container h4{
+.tips-container h4{
   text-align: center;
   
  
 }
 
-#tips h4{
+.tips h4{
   font-size: 24px;
   text-align: center;
 }
-#tips {
+.tips {
    padding: 20px 5px 0 20px; 
   display: flex;
   flex-direction: column;
@@ -946,7 +946,7 @@ footer a:hover {
   align-items: center;
 }
 
-#tips .tips-box {
+.tips .tips-box {
  
   flex-direction: column;
   width: 100%;
@@ -954,18 +954,18 @@ footer a:hover {
   
 }
 
-#tips .tips-img {
+.tips .tips-img {
   width: 80%;
   margin-right: 0px;
   margin-bottom: 10px;
 }
 
-#tips img {
+.tips img {
   max-width: 100%;
   max-height: 100%;
   object-fit: cover;
 }
-#tips .tips-text {
+.tips .tips-text {
   max-width: 80%;
   margin: 0 auto;
   text-align: center;
