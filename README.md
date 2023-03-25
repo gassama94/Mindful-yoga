@@ -1,4 +1,8 @@
 # Mindful Yoga
+
+<img src="assets/images/techsini-screen.png" alt="">
+
+
 Welcome to Mindful Yoga, a website dedicated to promoting a healthy and balanced lifestyle through yoga, meditation. Our goal is to provide you with the resources and tools you need to cultivate a greater sense of well-being in your life.
 In this Read Me, you will find information about the different sections of our website, including our yoga and meditation classes and tips for maintaining a healthy body and mind. I encourage you to explore each section and take advantage of the resources available to you.
 Our yoga and meditation classes are designed for people of all levels, from beginners to advanced practitioners. We offer a variety of styles and class lengths, so you can choose the practice that best suits your needs and schedule. In our Body section, we provide tips and resources for maintaining a healthy body and mind, including information about exercise, self-care, and stress reduction techniques.
@@ -38,8 +42,11 @@ The Business Goals of Mindful Yoga are:
 * The secondary font, Julius Sans One was chosen because it is thin, elegant and refined yet it has flair. As a font, it gave me the impression of an art gallery. It is sans-serif, so it is clear, clean and simple, maintaining the idea of a minimalist aesthetic. It was chosen for headings as it is evident but doesn't distract, keeping the eyes more focused on the photography.
 
 ### Icons
+
+   <img src="assets/images/icons.png" alt="">
+
 * Icons are taken from  the [ionicons](https://ionic.io/ionicons Icon) library.
-* They can easily be styled using other classes or IDs.
+* They can easily be styled using other classes.
 * Icons are utilised in the footer for social account icons and the form on the Contact page.
 
 
