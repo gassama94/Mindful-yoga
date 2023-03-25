@@ -51,11 +51,13 @@ The Business Goals of Mindful Yoga are:
 
 
 ### Colors
+ 
+  
 * I wanted the site to maintain a minimal aesthetic, colors are very basic and clean for highlighting the photos.
-* The primary color used is black. This is used to create a stark contrast with the background, drawing the eyes and focus on them. This removes distraction. White is used as the bakground color has more to do with lighting and reflection. On most computer screens, wherein the light is emitted from the screen.
-* One accent color was chosen, the red to give a life connection to nature and training, the outdoors and travel.
-* Text is primarily written in grey and black.
-* Finally, a neutral grey color is used for the footer to set it apart from the other elements on the site.
+* The primary color used is `#555` gray . This is used to create a stark contrast with the background, drawing the eyes and focus on them. This removes distraction. White is used as the bakground color has more to do with lighting and reflection. On most computer screens, wherein the light is emitted from the screen.
+* One accent color was chosen, the `#a21f26` red to give a life connection to nature and training, the outdoors and travel.
+* Text is primarily written in `#555` grey and headings in `#222` black and red.
+* A neutral `#f3c5c7` red color is used for the footer to set it apart from the other elements on the site and used for hover on links and buttons. 
 
 
 ### Styling

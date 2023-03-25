@@ -323,9 +323,19 @@ marquee {
 .tips-container h2{
   text-align: center;
   padding: 100px 100px 0 100px; 
+  margin-bottom: 20px;
   
  
 }
+
+.tips-container h2 span {
+  color: #a21f26;
+  font-size: 64px;
+  
+ 
+}
+
+
 .tips {
   display: flex;
   justify-content: center; 
@@ -500,7 +510,7 @@ footer a:hover {
   border-radius: 2px;
 }
 .text-input:hover {
-  border-color: #f16c6b;
+  border-color: #f3c5c7;
 }
 
 .join-button {
@@ -515,7 +525,7 @@ footer a:hover {
 }
 
 .join-button:hover {
-  color: #f16c6b;
+  color: #f3c5c7;
   background-color: #fff;
 }
 
@@ -817,6 +827,22 @@ footer a:hover {
     width: 100%;
   }
 /* tips section */
+.tips-container h2{
+  text-align: center;
+  padding: 100px 100px 0 100px; 
+  margin-bottom: 20px;
+  font-size: 18px;
+  
+ 
+}
+
+.tips-container h2 span {
+  color: #a21f26;
+  font-size: 34px;
+  
+ 
+}
+
 .tips h4{
   text-align: center;
   
@@ -928,6 +954,22 @@ footer a:hover {
   }
 
   /* tips section */
+  .tips-container h2{
+    text-align: center;
+    padding: 100px 100px 0 100px; 
+    margin-bottom: 20px;
+    font-size: 18px;
+    
+   
+  }
+  
+  .tips-container h2 span {
+    color: #a21f26;
+    font-size: 34px;
+    
+   
+  }
+
 .tips-container h4{
   text-align: center;
   
