@@ -39,7 +39,7 @@ The Business Goals of Mindful Yoga are:
 
 ### Fonts
 *  The primary font, Montserrat was chosen because it is standard, plain and informative but not too rigid. It looks friendly and conversational but holds a seriousness. It is also sans-serif, making it very easily readable throughout different color schemes and complementary to the font used for Headings.
-* The secondary font, Julius Sans One was chosen because it is thin, elegant and refined yet it has flair. As a font, it gave me the impression of an art gallery. It is sans-serif, so it is clear, clean and simple, maintaining the idea of a minimalist aesthetic. It was chosen for headings as it is evident but doesn't distract, keeping the eyes more focused on the photography.
+* The secondary font is sans-serif, so it is clear, clean and simple, maintaining the idea of a minimalist aesthetic.
 
 ### Icons
 

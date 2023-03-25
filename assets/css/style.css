@@ -529,7 +529,20 @@ footer a:hover {
 
 /* MEDIA QUERIES FOR IPAD PRO SCREEN AND DOWNWARDS */
 @media (max-width: 1024px) {
+  #hero {
+    background-position: top 30% right 30%;
+    height: 90vh;
+    width: 100%;
+    padding: 0 80px;
+    display: flex;
+  }
 
+  #hero h2 {
+    font-size: 42px;
+  }
+  #hero h3 {
+    font-size: 32px;
+  }
 /* tips section */
 #tips-container h2{
   text-align: center;
@@ -598,7 +611,7 @@ footer a:hover {
 
   #hero {
     background-position: top 30% right 30%;
-    height: 70vh;
+    height: 90vh;
     width: 100%;
     padding: 0 80px;
     display: flex;
@@ -703,7 +716,7 @@ footer a:hover {
 
   #hero {
     background-position: 55%;
-    height: 70vh;
+    height: 80vh;
     padding: 0 20px;
     display: flex;
   }
@@ -893,6 +906,16 @@ footer a:hover {
   #about-head h2{
     font-size: 170%;
   }
+
+  #hero {
+    background-position: top 30% right 30%;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+  }
+
+ 
+
 
   #intro {
     font-size: 90%;
