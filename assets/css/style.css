@@ -171,20 +171,20 @@ body{
     color: #a21f26;
   }
 
-#about-head {
+.about-head {
   display: flex;
   align-items: center;
   margin-top: 80px;
   height: 100vh;
 }
 
-#about-head img {
+.about-head img {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   width: 50%;
   height: auto;
 }
 
-#about-head a {
+.about-head a {
   text-decoration: none;
   font-size: 11px;
   font-weight: 700;
@@ -196,11 +196,11 @@ body{
   transition: 0.3s;
 }
 
-#about-head a:hover {
+.about-head a:hover {
   background-color: #f16c6b;
 }
 
-#about-head div {
+.about-head div {
   padding-left: 40px;
   margin-top: 20px;
 }
@@ -208,6 +208,7 @@ body{
 marquee {
   color: #f3c5c7;
   margin-bottom: 20px;
+  padding-left: 0;
 }
 
 /* testimonials section */
@@ -638,15 +639,15 @@ footer a:hover {
     font-size: 42px;
   }
 
-  #about-head {
+  .about-head {
     flex-direction: column;
     height: 90vh;
   }
-  #about-head h2 {
+  .about-head h2 {
     text-align: center;
     margin-top: 10px;
   }
-  #about-head {
+  .about-head {
     text-align: center;
     padding: 20px 80px;
   }
@@ -655,7 +656,7 @@ footer a:hover {
     line-height: 15px;
     font-size: 18px;
     margin-bottom: 15px;
-    font-weight: 300px;
+    font-weight: 300;
   }
 
   .testimonials .content .box {
@@ -768,22 +769,22 @@ footer a:hover {
   }
 
   /* ABOUT PAGE */
-  #about-head {
+  .about-head {
     flex-direction: column;
     height: 90vh;
     margin-bottom: 90px;
   }
 
-  #about-head img {
+  .about-head img {
     width: 100%;
     margin-bottom: 20px;
   }
 
-  #about-head div {
+  .about-head div {
     padding-left: 0px;
   }
   
-  #about-head h2{
+  .about-head h2{
     font-size: 190%;
   }
 
