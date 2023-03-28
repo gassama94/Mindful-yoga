@@ -8,6 +8,48 @@ In this Read Me, you will find information about the different sections of our w
 Our yoga and meditation classes are designed for people of all levels, from beginners to advanced practitioners. We offer a variety of styles and class lengths, so you can choose the practice that best suits your needs and schedule. In our Body section, we provide tips and resources for maintaining a healthy body and mind, including information about exercise, self-care, and stress reduction techniques.
 Thank you for visiting Mindful Yoga, and we hope you find our website to be a valuable resource for your journey towards greater health and well-being.
 
+
+Table of Contents
+1. UX
+    * Goals
+    * 
+    * Visual Design
+    * 
+2. 
+3. Features
+    * Page Elements
+    * 
+    * Additional Features
+    * 
+    * Feature Ideas
+    * 
+4. 
+5. Technologies Used
+    * Languages
+    * Frameworks
+    * Libraries
+    * APIs
+    * Platforms
+    * Other Tools
+6. 
+7. Testing
+    * Methods
+    * 
+    * Bugs
+    * 
+8. 
+9. Deployment
+    * Local Deployment
+    * 
+    * Github Deployment
+    * 
+10. 
+11. Credit and Contact
+    * Content
+    * Contact
+12. 
+
+
 ## Goals
 ### Vistor Goals
 The target audience for Mindful Yoga:
@@ -52,12 +94,12 @@ The Business Goals of Mindful Yoga are:
 
 ### Colors
  
-  
+<img src="assets/images/Palletes.png" alt="">
 * I wanted the site to maintain a minimal aesthetic, colors are very basic and clean for highlighting the photos.
-* The primary color used is `#555` gray . This is used to create a stark contrast with the background, drawing the eyes and focus on them. This removes distraction. White is used as the bakground color has more to do with lighting and reflection. On most computer screens, wherein the light is emitted from the screen.
-* One accent color was chosen, the `#a21f26` red to give a life connection to nature and training, the outdoors and travel.
-* Text is primarily written in `#555` grey and headings in `#222` black and red.
-* A neutral `#f3c5c7` red color is used for the footer to set it apart from the other elements on the site and used for hover on links and buttons. 
+* The primary color used is gray . This is used to create a stark contrast with the background, drawing the eyes and focus on them. This removes distraction. White is used as the bakground color has more to do with lighting and reflection. On most computer screens, wherein the light is emitted from the screen.
+* One accent color was chosen, the  red to give a life connection to nature and training, the outdoors and travel.
+* Text is primarily written in grey and headings in black and red.
+* A neutral red color is used for the footer to set it apart from the other elements on the site and used for hover on links and buttons. 
 
 
 ### Styling
@@ -66,6 +108,17 @@ The Business Goals of Mindful Yoga are:
 * CSS flex box model has been used through out the website.
 
 ## Features
+
+### Flexbox
+Flexbox is a layout system that lets you create flexible and responsive designs with ease. With Flexbox, you can align and space items along a single axis or both axes at once.
+
+Some cool things you can do with Flexbox include:
+
+* Adjust the size of items based on their content or using percentages or other units.
+* Align items horizontally or vertically, and distribute them evenly or with specific spacing.
+* Change the order of items within a container without changing the HTML.
+* Create layouts that work well on different screen sizes and devices.
+To get started with Flexbox, check out some online resources like [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS-Tricks or [Flexbox Froggy.](https://flexboxfroggy.com/) You can also experiment on your own by creating a simple HTML/CSS layout and using Flexbox properties to adjust the positioning and sizing of your elements. Good luck!
 
 ### Navbar
 <img src="assets/images/techsini-header.png"/>
@@ -178,6 +231,9 @@ To offer guidance and support for users looking to reduce stress and improve the
 * [Icons](https://ionic.io/ionicons)
     * Creating icons.
 
+* [Favicon Generator](https://favicon.io/favicon-generator/)
+    * Favicons.
+
 * [ImageOptim](https://imageoptim.com/mac)
     * Optimising images.
 
@@ -219,6 +275,16 @@ To offer guidance and support for users looking to reduce stress and improve the
 
 
 ## Deployment
+
+First, I created a new repository on GitHub and named it "Minful-yoga". Then, I opened the repository in Gitpod by clicking the "Gitpod" button in the top right corner of the repository page.
+
+Once my Gitpod workspace was set up, I created a new branch called "Mindul-yoga" for my website files, and added a new directory in my repository called "Mindful-yoga" where I put all of my website files.
+
+Next, I added my website files to my Git repository using Git commands like git add and git commit.
+
+Finally, I enabled GitHub Pages for my repository by going to the "Settings" tab on my repository page, scrolling down to the "GitHub Pages" section, and selecting "Branch: website" under "Source".
+
+That's it! Now my yoga website is deployed on GitHub and accessible to anyone at https://[username].github.io/yoga-website. With Gitpod, the entire process was made much easier and streamlined.
 
 ### Local Deployment
 
