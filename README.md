@@ -244,6 +244,10 @@ To offer guidance and support for users looking to reduce stress and improve the
 
 * [Mockup Generator](https://techsini.com/multi-mockup/index.php)
     * For device mockup images.
+
+* [Prettier](https://prettier.io/)
+    * For code indentation.
+    
 * [Coolors](https://coolors.co/)
     * Creating color pallettes.
     * Checking color contrast.
